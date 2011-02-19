@@ -7,4 +7,3 @@ task :pass do
 end
 
 task :default => :fail
-
